@@ -1,5 +1,5 @@
 import React from 'react'
-import CommonHOC from './commonHOC'
+import CommonHOC from './CommonHOC'
 
 const LikepostHOC = ({handleCount,count}) => {
   return (

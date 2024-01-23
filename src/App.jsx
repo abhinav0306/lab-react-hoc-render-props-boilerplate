@@ -1,6 +1,6 @@
 import './App.css';
-import LikeimgHOC from './components/HOC/likeimgHOC';
-import LikepostHOC from './components/HOC/likepostHOC';
+import LikeimgHOC from './components/HOC/LikeimgHOC';
+import LikepostHOC from './components/HOC/LikepostHOC';
 import LikeImgRender from './components/RENDER/LikeImgRender';
 import LikePostRender from './components/RENDER/LikePostRender';
 import LikeImage from "./components/LikeImage"
